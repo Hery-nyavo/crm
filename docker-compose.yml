@@ -1,0 +1,37 @@
+services:
+  mysql_db:
+    image: mysql:8.0.33
+    container_name: mysql_db 
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: crm
+      MYSQL_USER: hery
+      MYSQL_PASSWORD: eval
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - crm-net   
+
+  crm-backend:
+    build: .
+    container_name: crm_app
+    depends_on:
+      - mysql_db
+    ports:
+      - "8080:8080"
+    volumes:
+      - ~/.m2/repository:/root/.m2/repository
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3306/crm
+      SPRING_DATASOURCE_USERNAME: hery
+      SPRING_DATASOURCE_PASSWORD: eval
+    networks:
+      - crm-net     
+
+volumes:
+  mysql_data:
+
+networks:
+  crm-net:        
