@@ -1,13 +1,17 @@
 package site.easy.to.build.crm.entity.settings;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.math.BigDecimal;
 
 @Entity
 @Table(name = "alert_settings")
+@AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 public class AlertSettings {
@@ -17,13 +21,7 @@ public class AlertSettings {
     private int alertSettingsId;
 
     @Column(name = "rate", precision = 5, scale = 2)
-    private double rate;
+    private Double rate;
 
-    public AlertSettings() {
-    }
-
-    public AlertSettings(int alertSettingsId, double rate) {
-        this.alertSettingsId = alertSettingsId;
-        this.rate = rate;
-    }
+ 
 }

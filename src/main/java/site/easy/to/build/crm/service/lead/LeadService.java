@@ -3,9 +3,8 @@ package site.easy.to.build.crm.service.lead;
 import site.easy.to.build.crm.entity.Customer;
 import site.easy.to.build.crm.entity.Lead;
 
+import java.time.LocalDateTime;
 import java.util.List;
-
-import java.util.Map;
 
 public interface LeadService {
     public Lead findByLeadId(int id);
@@ -22,7 +21,13 @@ public interface LeadService {
 
     public void delete(Lead lead);
 
+    public double getTotalLeadAmountForCustomer(Customer customer);
+
+
     public List<Lead> getRecentLeads(int mangerId, int limit);
+
+    public List<Lead> getLeadBetween(LocalDateTime startDate, LocalDateTime endDate);
+
     public List<Lead> getCustomerLeads(int customerId);
 
     long countByEmployeeId(int employeeId);
@@ -33,6 +38,4 @@ public interface LeadService {
     List<Lead> getRecentLeadsByEmployee(int employeeId, int limit);
     List<Lead> getRecentCustomerLeads(int customerId, int limit);
     public void deleteAllByCustomer(Customer customer);
-
-    public Map<String, Double> getLeadExpensePerMonth(int year);
 }

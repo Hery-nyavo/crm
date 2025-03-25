@@ -7,6 +7,7 @@ import lombok.Setter;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 @Entity
 @Table(name = "expense")
@@ -38,7 +39,7 @@ public class Expense {
 
     @Column(name = "created_at", nullable = false)
     @NotNull(message = "createdAt required")
-    private LocalDate createdAt;
+    private LocalDateTime createdAt;
 
     public Expense(int expenseId, Customer customer, BigDecimal amount) {
         this.expenseId = expenseId;

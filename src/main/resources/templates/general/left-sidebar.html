@@ -32,9 +32,9 @@
                         <span class="hide-menu">Data</span>
                     </a>
                     <ul class="collapse">
-<!--                        <li><a th:href="${home + 'data/reset'}">Reset Data</a></li>-->
+                       <!-- <li><a th:href="${home + 'data/reset'}"></a></li> -->
                         <li><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                            Ouvrir le Modal
+                            Reset Data
                         </button></li>
                         <li><a th:href="${home + 'data/import'}">Import CSV</a></li>
                     </ul>
@@ -246,15 +246,15 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Titre du Modal</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Reset Data</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                Contenu du modal (données Thymeleaf ici)
+                Confirmer le reset ?
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-                <button type="button" class="btn btn-primary">Sauvegarder</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+                <a  th:href="${home + 'data/reset'}" class="btn btn-primary">Confirmer</a>
             </div>
         </div>
     </div>

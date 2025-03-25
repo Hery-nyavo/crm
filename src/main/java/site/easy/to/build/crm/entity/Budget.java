@@ -38,7 +38,7 @@ public class Budget {
     private BigDecimal amount;
 
     @Column(name = "created_at")
-    private LocalDate createdAt;
+    private LocalDateTime createdAt;
 
     public Budget() {
     }

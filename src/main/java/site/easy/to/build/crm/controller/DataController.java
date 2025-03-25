@@ -1,8 +1,10 @@
 package site.easy.to.build.crm.controller;
 
+import com.opencsv.exceptions.CsvValidationException;
 import jakarta.servlet.http.HttpServletRequest;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,6 +14,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 import site.easy.to.build.crm.exception.DataException;
 import site.easy.to.build.crm.service.data.DataService;
+
+import java.io.IOException;
 
 @Controller
 @RequestMapping("/data")
@@ -43,12 +47,17 @@ public class DataController {
     }
 
     @PostMapping("/import")
-    public String importData(@RequestParam("file") MultipartFile file, Model model) {
+    public String importData(@RequestParam("customerFile") MultipartFile customerFile,
+                             @RequestParam("ticketFile") MultipartFile ticketFile,
+                             @RequestParam("budgetFile") MultipartFile budgetFile,
+                             Model model,
+                             Authentication authentication) {
         try {
-            dataService.importCsv(file);
+            dataService.multipleImport(customerFile, ticketFile, budgetFile, authentication);
             return "redirect:/data/import";
         } catch (DataException e) {
             model.addAttribute("error_datas", e.getErrorMessages());
+
             return "data/error-import";
         } catch (Exception e) {
             model.addAttribute("error", e.getMessage());
