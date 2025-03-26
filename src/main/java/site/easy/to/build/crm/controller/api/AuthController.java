@@ -3,6 +3,7 @@ package site.easy.to.build.crm.controller.api;
 import java.util.List;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -26,13 +27,19 @@ public class AuthController {
     @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody LoginRequest request) {
 
-        String token = "GENERATED_JWT_TOKEN";
+        User user=userService.findByEmail(request.getEmail());
 
-        LoginResponse response = new LoginResponse();
-        response.setToken(token);
-        response.setUsername("Hery");
-        response.setRoles(List.of("ROLE_MANAGER"));
+        if (user!=null && request.getPassword().equals("Eval")) {
+            String token = "GENERATED_JWT_TOKEN";
 
-        return ResponseEntity.ok(response);
+            LoginResponse response = new LoginResponse();
+            response.setToken(token);
+            response.setUsername("HeryAndriamandroso");
+            response.setRoles(List.of("ROLE_MANAGER"));
+    
+            return ResponseEntity.ok(response);
+        }
+        return null;
+       
     }
 }

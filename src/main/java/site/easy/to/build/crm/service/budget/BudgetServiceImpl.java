@@ -87,4 +87,14 @@ public class BudgetServiceImpl implements BudgetService {
 
         return newExpense >= previousBudget;
     }
+    public Budget findByBudgetId(int budgetId){
+        return budgetRepository.findByBudgetId(budgetId);
+    }
+    public void save(Budget budget){
+        budgetRepository.save(budget);
+    }
+
+    public void delete(Budget budget){
+        budgetRepository.delete(budget);
+    }
 }

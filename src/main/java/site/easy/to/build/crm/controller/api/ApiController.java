@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import site.easy.to.build.crm.entity.Budget;
 import site.easy.to.build.crm.entity.DashboardData;
 import site.easy.to.build.crm.entity.DateParameter;
 import site.easy.to.build.crm.entity.Lead;
@@ -170,6 +171,54 @@ public class ApiController {
         }
 
 
+    }
+
+    @PostMapping("/updateBudget")
+    public ResponseEntity<?> updateBudget(@RequestBody Budget request) {
+        try {
+            // Find the lead by ID
+            Budget budget = budgetService.findByBudgetId(request.getBudgetId());
+    
+            if (budget == null) {
+                // If the lead is not found, return a 404 error
+                return ResponseEntity.status(HttpStatus.SC_NOT_FOUND).body("Budget not found with ID: " + request.getBudgetId());
+            }
+    
+            // Update the lead's amount with the value from the request
+            budget.setAmount(request.getAmount());
+    
+            // Save the updated lead
+            budgetService.save(budget);
+    
+            // Return the updated lead as a response
+            return ResponseEntity.ok(budget);
+    
+        } catch (Exception e) {
+            // Handle unexpected exceptions and return a 500 Internal Server Error
+            return ResponseEntity.status(HttpStatus.SC_INTERNAL_SERVER_ERROR)
+                    .body("An error occurred while updating the Budget: " + e.getMessage());
+        }
+    }
+
+    @GetMapping("/deleteBudget/{budgetId}")
+    public ResponseEntity<?> deleteBudget(@PathVariable int budgetId) {
+        try {
+            // Find the ticket by its ID
+            Budget budget = budgetService.findByBudgetId(budgetId);
+
+            if (budget == null) {
+                // If the ticket is not found, return a 404 error
+                return ResponseEntity.status(HttpStatus.SC_NOT_FOUND).body("Budget not found with ID: " + budgetId);
+            }
+
+            // Call service to delete the ticket by ID
+            budgetService.delete(budget);
+            return ResponseEntity.ok("Budget deleted successfully");
+        } catch (Exception e) {
+            // Handle unexpected exceptions and return 500 Internal Server Error
+            return ResponseEntity.status(HttpStatus.SC_INTERNAL_SERVER_ERROR)
+                    .body("An error occurred while deleting the Budget: " + e.getMessage());
+        }
     }
 
 

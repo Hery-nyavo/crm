@@ -31,4 +31,6 @@ public interface BudgetRepository extends JpaRepository<Budget, Integer> {
     List<Budget> findByCreatedAtBeforeOrderByCreatedAtDesc(LocalDateTime endDate);
 
     List<Budget> findByCreatedAtAfterOrderByCreatedAtDesc(LocalDateTime startDate);
+
+    Budget findByBudgetId(int id);
 }

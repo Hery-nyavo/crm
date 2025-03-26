@@ -10,4 +10,7 @@ public interface BudgetService {
     public boolean alertRateExceeded(Object action);
     public boolean budgetExceeded(Object action);
     public List<Budget> getBudgetBetween(LocalDateTime startDate, LocalDateTime endDate);
+    public Budget findByBudgetId(int budgetId);
+    public void save(Budget budget);
+    public void delete(Budget budget);
 }
