@@ -1,0 +1,70 @@
+@model crm_dashboard.Models.Budget
+
+@{
+    ViewData["Title"] = "Update Budget";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div id="main-wrapper">
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+
+            <div class="row page-titles">
+                <div class="col-md-5 align-self-center">
+                    <h4 class="text-themecolor">CRM</h4>
+                </div>
+
+                <div class="col-md-7 align-self-center text-right">
+                    <div class="d-flex justify-content-end align-items-center">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+
+                            <form asp-action="UpdateBudget" asp-controller="Dashboard" method="post">
+                                <div class="form-group">
+                                    <label for="budgetId">Budget ID</label>
+                                    <input type="text" id="budgetId" name="budgetId" class="form-control" value="@Model.budgetId" readonly/>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="description">Description</label>
+                                    <input type="text" id="description" name="description" class="form-control" value="@Model.budgetDesc" readonly/>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="customer">Status</label>
+                                    <input type="text" id="customer" name="custormer.name" class="form-control" value="@Model.customer.name" readonly/>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="amount">Amount</label>
+                                    <input type="number" step="any" id="amount" name="amount" class="form-control" value="@Model.amount"/>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="createdAt">Created At</label>
+                                    <input type="text" id="createdAt" name="createdAt" class="form-control" value="@Model.createdAt.ToString("yyyy-MM-dd HH:mm:ss")" readonly/>
+                                </div>
+
+                                <button type="submit" class="btn btn-success">Update</button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

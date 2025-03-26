@@ -1,0 +1,72 @@
+@model List<crm_dashboard.Models.Budget>
+
+@{
+    ViewData["Title"] = "Budget";
+}
+
+<div id="main-wrapper">
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+
+            <div class="row page-titles">
+                <div class="col-md-5 align-self-center">
+                    <h4 class="text-themecolor">CRM</h4>
+                </div>
+
+                <div class="col-md-7 align-self-center text-right">
+                    <div class="d-flex justify-content-end align-items-center">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+
+            <h2>@ViewData["Title"]</h2>
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>Budget ID</th>
+                    <th>Description</th>
+                    <th>Customer</th>
+                    <th>Amount</th>
+                    <th>Created At</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var budget in ViewBag.BudgetData)
+                {
+                    <tr>
+                        <td>@budget.budgetId</td>
+                        <td>@budget.budgetDesc</td>
+                        <td>@budget.customer</td>
+                        <td>@budget.amount</td>
+                        <td>@budget.createdAt.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                        <td>
+                            <!-- Update Button -->
+                            <a href="@Url.Action("UpdateBudget", "Dashboard", new { budgeId = budget.budgetId })" class="btn btn-primary">Update</a>
+
+                            <!-- Delete Button -->
+                            <a href="@Url.Action("DeleteBudget", "Dashboard", new { budgeId = budget.budgetId})" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>

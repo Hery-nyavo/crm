@@ -1,0 +1,72 @@
+@model List<crm_dashboard.Models.Lead>
+
+@{
+    ViewData["Title"] = "Leads by Status";
+}
+
+<div id="main-wrapper">
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+
+            <div class="row page-titles">
+                <div class="col-md-5 align-self-center">
+                    <h4 class="text-themecolor">CRM</h4>
+                </div>
+
+                <div class="col-md-7 align-self-center text-right">
+                    <div class="d-flex justify-content-end align-items-center">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+
+            <h2>@ViewData["Title"]</h2>
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>Lead ID</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Amount</th>
+                    <th>Created At</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var lead in ViewBag.LeadsData)
+                {
+                    <tr>
+                        <td>@lead.leadId</td>
+                        <td>@lead.name</td>
+                        <td>@lead.status</td>
+                        <td>@lead.depense</td>
+                        <td>@lead.createdAt.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                        <td>
+                            <!-- Update Button -->
+                            <a href="@Url.Action("UpdateLead", "Dashboard", new { leadId = lead.leadId, lead.status })" class="btn btn-primary">Update</a>
+
+                            <!-- Delete Button -->
+                            <a href="@Url.Action("DeleteLead", "Dashboard", new { leadId = lead.leadId, lead.status })" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>

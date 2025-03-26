@@ -1,0 +1,2501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\crm-dashboard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\crm-dashboard.5h6w9wvqsl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\all.css",
+      "PackagePath": "staticwebassets\\static\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\static\\css\\bootstrap-material-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\static\\css\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\dashboard4.css",
+      "PackagePath": "staticwebassets\\static\\css\\dashboard4.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\static\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\static\\css\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\form-icheck.css",
+      "PackagePath": "staticwebassets\\static\\css\\form-icheck.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\static\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\jquery-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\jquery-clockpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\jquery.toast.css",
+      "PackagePath": "staticwebassets\\static\\css\\jquery.toast.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\jsgrid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\login-register-lock.css",
+      "PackagePath": "staticwebassets\\static\\css\\login-register-lock.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\morris.css",
+      "PackagePath": "staticwebassets\\static\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\pages\\error-pages.css",
+      "PackagePath": "staticwebassets\\static\\css\\pages\\error-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\pages\\inbox.css",
+      "PackagePath": "staticwebassets\\static\\css\\pages\\inbox.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\ribbon-page.css",
+      "PackagePath": "staticwebassets\\static\\css\\ribbon-page.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\static\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\tagify.css",
+      "PackagePath": "staticwebassets\\static\\css\\tagify.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\css\\wysiwyg-color.css",
+      "PackagePath": "staticwebassets\\static\\css\\wysiwyg-color.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\static\\flag-icon-css\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\static\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\aero.css",
+      "PackagePath": "staticwebassets\\static\\flat\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\static\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\static\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\static\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\flat.css",
+      "PackagePath": "staticwebassets\\static\\flat\\flat.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\static\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\green.css",
+      "PackagePath": "staticwebassets\\static\\flat\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\green.png",
+      "PackagePath": "staticwebassets\\static\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\grey.css",
+      "PackagePath": "staticwebassets\\static\\flat\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\static\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\orange.css",
+      "PackagePath": "staticwebassets\\static\\flat\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\static\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\pink.css",
+      "PackagePath": "staticwebassets\\static\\flat\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\static\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\purple.css",
+      "PackagePath": "staticwebassets\\static\\flat\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\static\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\red.css",
+      "PackagePath": "staticwebassets\\static\\flat\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\red.png",
+      "PackagePath": "staticwebassets\\static\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\yellow.css",
+      "PackagePath": "staticwebassets\\static\\flat\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\static\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\static\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\brands.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\regular.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\solid.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\static\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\cryptocoins-colors.css",
+      "PackagePath": "staticwebassets\\static\\fonts\\cryptocoins-colors.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\static\\fonts\\cryptocoins.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\cryptocoins.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\cryptocoins.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\cryptocoins.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\cryptocoins.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\cryptocoins.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\cryptocoins.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\static\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\static\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\static\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\static\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\static\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\static\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\static\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\static\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\dots.png",
+      "PackagePath": "staticwebassets\\static\\images\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\error-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\static\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\folder.png",
+      "PackagePath": "staticwebassets\\static\\images\\folder.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\google-docs.png",
+      "PackagePath": "staticwebassets\\static\\images\\google-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\google.png",
+      "PackagePath": "staticwebassets\\static\\images\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\login-register.jpg",
+      "PackagePath": "staticwebassets\\static\\images\\login-register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\static\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\logo-light-icon.png",
+      "PackagePath": "staticwebassets\\static\\images\\logo-light-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\static\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\static\\images\\logo-text.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\pp.png",
+      "PackagePath": "staticwebassets\\static\\images\\pp.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\sheets.png",
+      "PackagePath": "staticwebassets\\static\\images\\sheets.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\images\\slides.png",
+      "PackagePath": "staticwebassets\\static\\images\\slides.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\cal-init.js",
+      "PackagePath": "staticwebassets\\static\\js\\cal-init.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\custom-dropzone.js",
+      "PackagePath": "staticwebassets\\static\\js\\custom-dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\custom-email-template.js",
+      "PackagePath": "staticwebassets\\static\\js\\custom-email-template.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\custom-unlayer.js",
+      "PackagePath": "staticwebassets\\static\\js\\custom-unlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\custom.js",
+      "PackagePath": "staticwebassets\\static\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\dashboard4.js",
+      "PackagePath": "staticwebassets\\static\\js\\dashboard4.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\db.js",
+      "PackagePath": "staticwebassets\\static\\js\\db.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\drive.js",
+      "PackagePath": "staticwebassets\\static\\js\\drive.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\general-dropzone.js",
+      "PackagePath": "staticwebassets\\static\\js\\general-dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\library\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\custom.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\dff.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\dff.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\dropzone.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\icheck.init.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\icheck.init.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\icheck.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery-clockpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jquery.toast.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jquery.toast.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jsgrid-init.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jsgrid-init.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\jsgrid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\moment.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\morris.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\popper.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\raphael-min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\skycons.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\skycons.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\tagify.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\tagify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\tagify.polyfills.min.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\tagify.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\waves.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\js\\library\\wysihtml5-0.3.0.js",
+      "PackagePath": "staticwebassets\\static\\js\\library\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\_all.css",
+      "PackagePath": "staticwebassets\\static\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\aero.css",
+      "PackagePath": "staticwebassets\\static\\line\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\blue.css",
+      "PackagePath": "staticwebassets\\static\\line\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\green.css",
+      "PackagePath": "staticwebassets\\static\\line\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\grey.css",
+      "PackagePath": "staticwebassets\\static\\line\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\line.css",
+      "PackagePath": "staticwebassets\\static\\line\\line.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\line.png",
+      "PackagePath": "staticwebassets\\static\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\static\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\orange.css",
+      "PackagePath": "staticwebassets\\static\\line\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\pink.css",
+      "PackagePath": "staticwebassets\\static\\line\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\purple.css",
+      "PackagePath": "staticwebassets\\static\\line\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\red.css",
+      "PackagePath": "staticwebassets\\static\\line\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\line\\yellow.css",
+      "PackagePath": "staticwebassets\\static\\line\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\aero.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\blue.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\green.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\grey.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\minimal.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\minimal.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\orange.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\pink.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\purple.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\red.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\yellow.css",
+      "PackagePath": "staticwebassets\\static\\minimal\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\static\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\static\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\static\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\static\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\_all.css",
+      "PackagePath": "staticwebassets\\static\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\aero.css",
+      "PackagePath": "staticwebassets\\static\\square\\aero.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\aero.png",
+      "PackagePath": "staticwebassets\\static\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\blue.css",
+      "PackagePath": "staticwebassets\\static\\square\\blue.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\blue.png",
+      "PackagePath": "staticwebassets\\static\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\green.css",
+      "PackagePath": "staticwebassets\\static\\square\\green.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\green.png",
+      "PackagePath": "staticwebassets\\static\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\grey.css",
+      "PackagePath": "staticwebassets\\static\\square\\grey.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\grey.png",
+      "PackagePath": "staticwebassets\\static\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\orange.css",
+      "PackagePath": "staticwebassets\\static\\square\\orange.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\orange.png",
+      "PackagePath": "staticwebassets\\static\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\pink.css",
+      "PackagePath": "staticwebassets\\static\\square\\pink.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\pink.png",
+      "PackagePath": "staticwebassets\\static\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\purple.css",
+      "PackagePath": "staticwebassets\\static\\square\\purple.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\purple.png",
+      "PackagePath": "staticwebassets\\static\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\red.css",
+      "PackagePath": "staticwebassets\\static\\square\\red.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\red.png",
+      "PackagePath": "staticwebassets\\static\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\square.css",
+      "PackagePath": "staticwebassets\\static\\square\\square.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\square.png",
+      "PackagePath": "staticwebassets\\static\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\yellow.css",
+      "PackagePath": "staticwebassets\\static\\square\\yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\static\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\toavi\\Desktop\\dossier\\crm-dashboard\\crm-dashboard\\wwwroot\\static\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\static\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.crm-dashboard.props",
+      "PackagePath": "build\\crm-dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.crm-dashboard.props",
+      "PackagePath": "buildMultiTargeting\\crm-dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.crm-dashboard.props",
+      "PackagePath": "buildTransitive\\crm-dashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.crm-dashboard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.crm-dashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

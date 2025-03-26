@@ -1,0 +1,70 @@
+<div id="main-wrapper">
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+<div class="row page-titles">
+    <div class="col-md-5 align-self-center">
+        <h4 class="text-themecolor">CRM -- Rate Update</h4>
+    </div>
+
+    <div class="col-md-7 align-self-center text-right">
+        <div class="d-flex justify-content-end align-items-center">
+        </div>
+    </div>
+</div>
+<div>
+        
+         
+
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="card">
+                                <div class="card-body">
+
+                                    <form asp-controller="Alert" asp-action="UpdateAlert">
+                                        <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 m-t-10 text-center">
+                                                <div class="social">
+                                                    @if(ViewBag.Error != null)
+                                                    {
+                                                        <div class="alert alert-danger mt-3 text-center">
+                                                            <p>@ViewBag.Error</p>
+                                                        </div>
+                                                    }
+                                                    else if(ViewBag.Statut != null)
+                                                    {
+                                                        <div class="alert alert-success mt-3 text-center">
+                                                            <p>@ViewBag.Statut</p>
+                                                        </div>
+
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <label for="rate">Rate</label>
+                                        <input class="form-control col-md-3" step="any" type="text" id="rate" name="rate" required/>
+                                        <input type="hidden" value="20.98" name="actual"/>
+
+                                        <input class="btn btn-info col-md-2" type="submit" value="Save"/>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 ">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5>Actual rate : @ViewBag.rate%</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+</div>
+</div>
+</div>

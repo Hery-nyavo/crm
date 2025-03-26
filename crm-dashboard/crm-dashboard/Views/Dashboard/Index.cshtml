@@ -1,0 +1,303 @@
+@* *@
+@* *@
+@* <div id="main-wrapper"> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- Topbar header - style you can find in pages.scss --> *@
+@*     <!-- ============================================================== --> *@
+@*     <div th:insert="~{/general/header.html}"></div> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- End Topbar header --> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- Left Sidebar - style you can find in sidebar.scss  --> *@
+@*     <!-- ============================================================== --> *@
+@*     <div th:insert="~{/general/left-sidebar.html}"></div> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- End Left Sidebar - style you can find in sidebar.scss  --> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- ============================================================== --> *@
+@*     <!-- Page wrapper  --> *@
+@*     <!-- ============================================================== --> *@
+@*     <div class="page-wrapper"> *@
+@*         <!-- ============================================================== --> *@
+@*         <!-- Container fluid  --> *@
+@*         <!-- ============================================================== --> *@
+@*         <div class="container-fluid"> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- Bread crumb and right sidebar toggle --> *@
+@*             <!-- ============================================================== --> *@
+@*             <div th:insert="~{/general/page-titles.html}"></div> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- End Bread crumb and right sidebar toggle --> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- Start Page Content --> *@
+@*             <!-- ============================================================== --> *@
+@*             <div class="row"> *@
+@*                 <div class="col-lg-12"> *@
+@*                     <div class="card"> *@
+@*                         <div class="card-body"> *@
+@*                             <h4 class="card-title">Leads</h4> *@
+@*                             <div class="table-responsive m-t-40"> *@
+@*                                 <table id="config-table" class="table display table-bordered table-striped no-wrap"> *@
+@*                                     <thead> *@
+@*                                     <tr> *@
+@*                                         <th>#</th> *@
+@*                                         <th>Lead</th> *@
+@*                                         <th>phone</th> *@
+@*                                         <th>Status</th> *@
+@*                                         <th>Customer</th> *@
+@*                                         <th>Assigned Employee</th> *@
+@*                                         <th>Expense</th> *@
+@*                                         <th>Show</th> *@
+@*                                         <th>Edit</th> *@
+@*                                         <th>Delete</th> *@
+@*                                     </tr> *@
+@*                                     </thead> *@
+@*                                     <tbody> *@
+@*                                     <tr th:if="${leads != null}" th:each="lead : ${leads}"> *@
+@*                                         <td th:text="${lead.leadId}"></td> *@
+@*                                         <td th:text="${lead.name}"></td> *@
+@*                                         <td th:text="${lead.phone}"></td> *@
+@*                                         <td th:text="${lead.status}"></td> *@
+@*                                         <td th:text="${lead.customer.name}"></td> *@
+@*                                         <td th:text="${lead.employee.username}"></td> *@
+@*                                         <td th:if="${lead.expense == null}"> *@
+@*                                             <a th:href="${home + 'budget/lead/' + lead.leadId + '/create-expense'}" th:text="Add"></a> *@
+@*                                         </td> *@
+@*                                         <td th:unless="${lead.expense == null}"> *@
+@*                                             <p th:text="${lead.expense?.amount}"></p> *@
+@*                                         </td> *@
+@*                                         <td><a th:href="${home + 'employee/lead/show/' + lead.leadId}"><i class="fas fa-eye"></i></a></td> *@
+@*                                         <td><a th:href="${home + 'employee/lead/update/' + lead.leadId}"><i class="fas fa-edit"></i></a></td> *@
+@*                                         <td> *@
+@*                                             <form th:action="${home + 'employee/lead/delete/' + lead.leadId}" method="post"> *@
+@*                                                 <button type="submit" class="btn btn-primary"> *@
+@*                                                     <i class="mdi mdi-delete"></i> *@
+@*                                                 </button> *@
+@*                                             </form> *@
+@*                                         </td> *@
+@*                                     </tr> *@
+@*                                     </tbody> *@
+@*                                 </table> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                 </div> *@
+@*             </div> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- End Page Content --> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- Right sidebar --> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- .right-sidebar --> *@
+@*             <div th:insert="~{/general/right-sidebar.html}"></div> *@
+@*             <!-- ============================================================== --> *@
+@*             <!-- End Right sidebar --> *@
+@*             <!-- ============================================================== --> *@
+@*         </div> *@
+@*         <!-- ============================================================== --> *@
+@*         <!-- End Container fluid  --> *@
+@*         <!-- ============================================================== --> *@
+@*     </div> *@
+
+<div id="main-wrapper">
+    <!-- ============================================================== -->
+  
+    <!-- ============================================================== -->
+    <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+
+            <div class="row page-titles">
+                <div class="col-md-5 align-self-center">
+                    <h4 class="text-themecolor">CRM</h4>
+                </div>
+
+                <div class="col-md-7 align-self-center text-right">
+                    <div class="d-flex justify-content-end align-items-center">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <h4 class="card-title">DashBoard</h4>
+
+                            <form method="post" asp-action="Dashboard" asp-controller="Dashboard">
+                                <label for="Min">From:</label>
+                                <input type="datetime-local" class="form-control col-md-3" id="Min" name="Min"
+                                       value="@Model?.Min.ToString("yyyy-MM-ddTHH:mm")" required/>
+
+                                <label for="Max">To:</label>
+                                <input type="datetime-local" id="Max" name="Max" class="form-control col-md-3"
+                                       value="@Model?.Max.ToString("yyyy-MM-ddTHH:mm")" required/>
+
+                                <button class="btn btn-linkedin" type="submit">Filter</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3>Tickets total expenses</h3>
+                            <h4>@(ViewBag.TicketsTotal != null ? (ViewBag.TicketsTotal).ToString("#,##0.00", System.Globalization.CultureInfo.InvariantCulture) : 0) AR</h4>
+                        </div>
+                    </div>
+                </div>
+            
+
+
+                <!-- Budget Comparison (Line Chart) -->
+
+           
+                <div class="col-lg-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3>Leads total expenses</h3>
+                            <h4>@(ViewBag.LeadsTotal != null ? (ViewBag.LeadsTotal).ToString("#,##0.00", System.Globalization.CultureInfo.InvariantCulture) : 0) AR</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <!-- Tickets (line) -->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3>Tickets by Status (@(ViewBag.TicketsNumber != null ? ViewBag.TicketsNumber : 0))</h3>
+                            <canvas id="ticketsChart" width="400" height="200"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+            <!-- Leads (line) -->
+                <div class="col-lg-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3>Leads by Status (@(ViewBag.LeadsNumber != null ? ViewBag.LeadsNumber : 0))</h3>
+                            <canvas id="leadsChart" width="400" height="200"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+           
+                
+            </div>
+            
+            
+            <!-- Budget (Pie Chart) -->
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h3> Total vs Actual Budget (AR)</h3>
+                                            <canvas id="budgetChart" width="400" height="200"></canvas> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                          
+                           
+                       
+
+                            <script>
+        // Budget Comparison (Pie Chart)
+        var ctx1 = document.getElementById('budgetChart').getContext('2d');
+        var BudgetChart = new Chart(ctx1, {
+            type: 'pie',
+            data: {
+                labels: [ 'Total budget','Actual Budget'],
+                datasets: [{
+                    data: @Html.Raw(Json.Serialize(ViewBag.BudgetData)),
+                    backgroundColor: ['#ff9999', '#66b3ff'],
+                }]
+            },
+            options: {
+                onClick: function (event, elements) {
+                    if (elements.length > 0) {
+                        var index = elements[0].index;
+                        var label = this.data.labels[index];
+                        window.location.href = `/Dashboard/Budget/${encodeURIComponent(label)}`;
+                    }
+                }
+            }
+        });
+
+        // Tickets by Status (Bar Chart)
+        var ctx2 = document.getElementById('ticketsChart').getContext('2d');
+        var ticketsChart = new Chart(ctx2, {
+            type: 'bar',
+            data: {
+                 <!-- labels: ['low','medium','high','closed','urgent','critical'], -->
+          labels: ['Open',
+                    'Assigned',
+                    'On Hold',
+                    'In Progress',
+                    'Resolved',
+                    'Closed',
+                    'Closed',
+                    'Reopened',
+                    'Pending Customer Responses',
+                    'Escalated',
+                    'Archived'], 
+                datasets: [{
+                    label: 'Tickets by Status',
+                    data: @Html.Raw(Json.Serialize(ViewBag.TicketsData)),
+                    backgroundColor: '#66b3ff',
+                    borderColor: '#66b3ff',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                onClick: function (event, elements) {
+                    if (elements.length > 0) {
+                        var index = elements[0].index;
+                        var label = this.data.labels[index];
+                        window.location.href = `/Dashboard/Tickets/${encodeURIComponent(label)}`;
+                    }
+                }
+            }
+        });
+
+        // Leads by Status (Line Chart)
+        var ctx3 = document.getElementById('leadsChart').getContext('2d');
+        var LeadsChart = new Chart(ctx3, {
+            type: 'line',
+            data: {
+                labels: ['meeting-to-schedule','scheduled','archived','success','assign-to-sales'],
+                datasets: [{
+                    label: 'Leads',
+                    data: @Html.Raw(Json.Serialize(ViewBag.LeadsData)),
+                    fill: false,
+                    borderColor: '#ff6347',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                onClick: function (event, elements) {
+                    if (elements.length > 0) {
+                        var index = elements[0].index;
+                        var label = this.data.labels[index];
+                        window.location.href = `/Dashboard/Leads/${encodeURIComponent(label)}`;
+                    }
+                }
+            }
+        });
+    </script>
+
+                        </div>
+                    </div>
+                </div>
